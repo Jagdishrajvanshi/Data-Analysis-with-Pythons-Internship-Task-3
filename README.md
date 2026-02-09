@@ -68,4 +68,4 @@ Internship project showcasing Titanic data analysis using Python.  Includes expl
 
 ## 👤 Author
 **Jagdish Rajvanshi**  
-Data Science with Python Internship – Task 3
+Data Science with Python Internship – Week 3
